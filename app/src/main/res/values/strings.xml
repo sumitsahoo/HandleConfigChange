@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HandleConfigChange</string>
+    <string name="action_about">About Dev</string>
+    <string name="current_percent">Current Progress : </string>
+    <string name="task_started_msg">Dummy task started ...</string>
+    <string name="task_cancelled_msg">Dummy task cancelled ...</string>
+    <string name="one_hundred_percent">Current Progress : 100%</string>
+    <string name="task_complete_msg">Dummy task complete ...</string>
+    <string name="about_app"><![CDATA[Designed & Developed By Sumit]]></string>
+    <string name="dismiss">DISMISS</string>
+    <string name="default_start_task_text">Tap on toggle button to start or stop the dummy task</string>
+</resources>
